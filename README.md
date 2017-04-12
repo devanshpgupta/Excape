@@ -9,8 +9,10 @@ For the main character or other NPCs would likely be generic models. Unnamed mai
 
 How to play the game:
 Step 1: Install Unreal Engine 3
-Step 2: Open the Demo Level
-Step 3: Hit the Play Button and Enjoy !!
+Step 2: Download the Project: Excape
+Step 3: Open Excape.uproject file (will Open in Unreal Engine 3)
+Step 4: Open the Demo Level
+Step 5: Hit the Play Button and Enjoy !!
 
 GamePlay:
 Start with Demo Level. It will toggle you to the Main Menu.
