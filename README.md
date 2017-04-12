@@ -27,4 +27,11 @@ You will be enclosed in a room and the Door is locked, so the player will have t
 Once the player is out of the room, he will have to stay away from the Guards i.e. Knarrs
 (Knarrs are the Guards on the alien Planet. They have great visibility. If they see you then you will follow you. You will have to escape from them since if they catch you, they will put you back in the same enclosed room in level 1 always).
 
-  You can take the help of other aliens such as Blob to escape the level. Blob will provide you different types of abilities in each level that can help you exit. But inorder to take help from Blob you will have to free them. They will be in a prision and to free them you will have to search for a Blue key card that can help you free the Blob.asadasdasdasd
+You can take the help of other aliens such as Blob to escape the level. Blob will provide you different types of abilities in each level that can help you exit. But inorder to take help from Blob you will have to free them. They will be in a prision and to free them you will have to search for a Blue key card that can help you free the Blob. 
+Once you have freed the Blob you can use the abilitie by Pressing 'L' key twice. After that you will be able to escape the level by bluffing the Knarrs.
+  
+ Second Level:
+ You will be now one step closer to exiting the planet. You will have to perform the same tasks as in Level 1 but this time Knarrs will be more smart. You can find how different they are by playing the game.
+ 
+ Last Level:
+  In this level you will have to create a route to exit gate avoiding all the knarrs that will set you free.
