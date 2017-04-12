@@ -25,7 +25,7 @@ After clicking on Start Game from Main Menu you will enter the First Level.
 First Level:
 You will be enclosed in a room and the Door is locked, so the player will have to look for an alternate way to get out of the room.
 Once the player is out of the room, he will have to stay away from the Guards i.e. Knarrs
-(Knarrs are the Guards on the alien Planet. They have great visibility. If they see you then you will follow you. You will have to escape from them since if they catch you, they will put you back in the same enclosed room in level 1 always).
+(Knarrs are the Guards on the alien Planet. They possess AI. If they see you then you will follow you. You will have to escape from them since if they catch you, they will put you back in the same enclosed room in level 1 always and escaping from them can be difficult at times).
 
 You can take the help of other aliens such as Blob to escape the level. Blob will provide you different types of abilities in each level that can help you exit. But inorder to take help from Blob you will have to free them. They will be in a prision and to free them you will have to search for a Blue key card that can help you free the Blob. 
 Once you have freed the Blob you can use the abilitie by Pressing 'L' key twice. After that you will be able to escape the level by bluffing the Knarrs.
